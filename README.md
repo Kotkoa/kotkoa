@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+A Frontend (React) developer with a passion for creating beautiful and functional user interfaces. I am currently working on improving my skills in Python and Vue. I am also interested in learning more about backend technologies.
+
+- 🛍️ I use daily: React, Typescript, Apollo GraphQl, CSS Modules, Tailwind, Vite, Next.js, git Copilot, chatGpt4
+- 👯 I’m looking for a new opportunities [My LinkedIn](https://linkedin.com/in/kotkoa) and [My Telegram](https://t.me/Kotkoa)
+
 <!--
 **Kotkoa/kotkoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
