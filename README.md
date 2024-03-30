@@ -2,7 +2,7 @@
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg)
 
-A Frontend (React) developer with a passion for creating beautiful and functional user interfaces. I am currently working on improving my skills in Python and Vue. I am also interested in learning more about backend technologies.
+Currently, I am seeking remote employment opportunities with international teams, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements. Contact me if you have a project that could benefit from my expertise.
 
 ## My Stack:
 
