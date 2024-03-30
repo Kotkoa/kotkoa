@@ -6,6 +6,7 @@ A Frontend (React) developer with a passion for creating beautiful and functiona
 
 ## My Stack:
 
+<p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
@@ -29,12 +30,13 @@ A Frontend (React) developer with a passion for creating beautiful and functiona
 <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+</p>
 
 - 🌱 I’m currently learning: Python, Vue
 
 - 👯 I’m looking for a new opportunities [My LinkedIn](https://linkedin.com/in/kotkoa) and [My Telegram](https://t.me/Kotkoa)
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 [![Twitter: Kotkoa](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/Kotkoa)
 [![Linkedin: Kotkoa](https://img.shields.io/badge/-Kotkoa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kotkoa)](https://www.linkedin.com/in/kotkoa)
