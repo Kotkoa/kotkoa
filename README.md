@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Andrey Kotko
+
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg)
 
 A Frontend (React) developer with a passion for creating beautiful and functional user interfaces. I am currently working on improving my skills in Python and Vue. I am also interested in learning more about backend technologies.
 
 - 🛍️ I use daily: React, Typescript, Apollo GraphQl, CSS Modules, Tailwind, Vite, Next.js, git Copilot, chatGpt4
 - 👯 I’m looking for a new opportunities [My LinkedIn](https://linkedin.com/in/kotkoa) and [My Telegram](https://t.me/Kotkoa)
+- 📫 How to reach me: [![Twitter: Kotkoa](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/Kotkoa)
+  [![Linkedin: Kotkoa](https://img.shields.io/badge/-Kotkoa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kotkoa)](https://www.linkedin.com/in/kotkoa)
+  [![GitHub Kotkoa](https://img.shields.io/github/followers/Kotkoa?label=follow&style=social)](https://github.com/Kotkoa)
 
 <!--
 **Kotkoa/kotkoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
