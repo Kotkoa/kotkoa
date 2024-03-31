@@ -30,24 +30,25 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" />
 <img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
 <img alt="JSON" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">
+<img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
 <img alt="MarkDown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
-<img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
 <img alt="Node.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
-<img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg">
 <img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
+<img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg">
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-gray?style=flat&logo=MUI&logoWidth=48" />
 
-<img alt="Yup" src="" />
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-gray?style=flat&logo=mui&logoColor=2f3022"  />
+<img alt="chatGpt4" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=2f3033" />
 <img alt="Storybook" src="" />
 <img alt="Cypress" src="" />
 <img alt="Gitlab" src="" />
-<img alt="MobX" src="" />
 <img alt="React Context" src="" />
 <img alt="Jotai" src="" />
-<img alt="chatGpt4" src="" />
+
+<>
 <img alt="git Copilot" src="" />
+
 </div>
 
 ## 📫 How to reach me
