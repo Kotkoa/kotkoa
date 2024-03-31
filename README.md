@@ -31,33 +31,24 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
 <img alt="JSON" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">
 <img alt="MarkDown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
-<img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg">
+<img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
 <img alt="Node.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
-
-<img alt="Yup" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yup/yup3.svg" />
-<img alt="Storybook" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook3.svg" />
-<img alt="Cypress" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cypress/cypress3.svg" />
-<img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg">
+<img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg">
 <img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
-<img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg" />
-
-<img alt="Material-UI" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Material-UI/materialui3.svg" />
-
-<img alt="Gitlab" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gitlab/gitlab3.svg" />
-
-<img alt="MobX" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MobX/mobx3.svg" />
-
-<img alt="React Context" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React-Context/reactcontext3.svg" />
-
-<img alt="Jotai" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jotai/jotai3.svg" />
-
-<img alt="chatGpt4" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/chatGpt4/chatgpt43.svg" />
-
-<img alt="git Copilot" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/git-Copilot/gitcopilot3.svg" />
-
+<img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 
-<img alt="CSS Modules" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg">
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-gray?style=flat&logo=#007FFF&logoWidth=48" alt="Material-UI" />
+
+<img alt="Yup" src="" />
+<img alt="Storybook" src="" />
+<img alt="Cypress" src="" />
+<img alt="Gitlab" src="" />
+<img alt="MobX" src="" />
+<img alt="React Context" src="" />
+<img alt="Jotai" src="" />
+<img alt="chatGpt4" src="" />
+<img alt="git Copilot" src="" />
 </div>
 
 ## 📫 How to reach me
