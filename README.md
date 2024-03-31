@@ -38,8 +38,10 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-gray?style=flat&logo=mui&logoColor=2f3022"  />
-<img alt="chatGpt4" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=2f3033" />
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-c0ebff?style=for-the-badge&logo=mui&logoColor=2f3022"  />
+<img alt="chatGpt4" src="https://img.shields.io/badge/chatGPT-81a497?style=for-the-badge&logo=openai&logoColor=2f3033" />
+<img alt="Storybook" src="https://img.shields.io/badge/storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=2f3044" />
+
 <img alt="Storybook" src="" />
 <img alt="Cypress" src="" />
 <img alt="Gitlab" src="" />
