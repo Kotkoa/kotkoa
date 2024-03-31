@@ -8,7 +8,7 @@ Currently, I am seeking remote employment opportunities with international teams
 
 <div align="center">
 <img alt="Apollo GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
-<img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
+<img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg">
 <img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
 <img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
 <img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg"> 
@@ -19,24 +19,22 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" />
 <img alt="Heroku" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg">
 <img alt="Figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" />
-
-<img alt="Storybook" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook3.svg" />
-
 <img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" />
-
+<img alt="npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" />
+<img alt="Github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+<img alt="HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+<img alt="Versel" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg">
+<img alt="Storybook" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook3.svg" />
+<img alt="VSCode" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
 <img alt="Cypress" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cypress/cypress3.svg" />
+<img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" />
+<img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
 
 <img alt="Yup" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yup/yup3.svg" />
 
 <img alt="Material-UI" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Material-UI/materialui3.svg" />
 
-<img alt="Styled SCSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Styled-SCSS/styledscss3.svg" />
-
-<img alt="npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" />
-
 <img alt="Gitlab" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gitlab/gitlab3.svg" />
-
-<img alt="Github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
 
 <img alt="MobX" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MobX/mobx3.svg" />
 
@@ -50,24 +48,19 @@ Currently, I am seeking remote employment opportunities with international teams
 
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Next.js/nextjs3.svg" />
 
-<img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vite/vite3.svg" />
-
-<img alt="Tailwind CSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tailwind-CSS/tailwindcss3.svg" />
+<img alt="Tailwind CSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg">
 
 <img alt="CSS Modules" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS-Modules/cssmodules3.svg" />
-<img alt="HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
 </div>
-
-<!-- - 🌱 I’m currently learning: Python, Vue -->
-
-<!-- - 👯 I’m looking for a new opportunities -->
 
 ## 📫 How to reach me
 
+<div align="center">
 [![Twitter: Kotkoa](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/Kotkoa)
 [![Linkedin: Kotkoa](https://img.shields.io/badge/-Kotkoa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kotkoa)](https://www.linkedin.com/in/kotkoa)
 [![GitHub Kotkoa](https://img.shields.io/github/followers/Kotkoa?label=follow&style=social)](https://github.com/Kotkoa)
 [![Telegram: Kotkoa](https://img.shields.io/badge/-Kotkoa-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Kotkoa)](https://t.me/Kotkoa)
+</div>
 
 <!--
 **Kotkoa/kotkoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
