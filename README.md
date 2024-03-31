@@ -6,7 +6,55 @@ Currently, I am seeking remote employment opportunities with international teams
 
 ## ⭐️ My Stack:
 
-<img alt="React" src="https://img.shields.io/badge/-React-ff0000?style=flat-square&logo=react&logoColor=black" /><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-ff2f00?style=flat-square&logo=typescript&logoColor=black" /><img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-ff6400?style=flat-square&logo=apollo-graphql&logoColor=black" /><img alt="CSS Modules" src="https://img.shields.io/badge/-CSS%20Modules-ff9400?style=flat-square&logo=css3&logoColor=black" /><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-ffc900?style=flat-square&logo=tailwind-css&logoColor=black" /><img alt="Vite" src="https://img.shields.io/badge/-Vite-fcf500?style=flat-square&logo=vite&logoColor=black" /><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-d1ff00?style=flat-square&logo=next-dot-js&logoColor=black" /><img alt="git Copilot" src="https://img.shields.io/badge/-git%20Copilot-a2ff00?style=flat-square&logo=github&logoColor=black" /><img alt="chatGpt4" src="https://img.shields.io/badge/-chatGpt4-6cff00?style=flat-square&logo=python&logoColor=black" /><img alt="Jotai" src="https://img.shields.io/badge/-Jotai-3dff00?style=flat-square&logo=atom&logoColor=black" /><img alt="React Context" src="https://img.shields.io/badge/-React%20Context-1ABC9C?style=flat-square&logo=react&logoColor=black" /><img alt="MobX" src="https://img.shields.io/badge/-MobX-08ff00?style=flat-square&logo=mobx&logoColor=black" /><img alt="Redux" src="https://img.shields.io/badge/-Redux-00ff27?style=flat-square&logo=redux&logoColor=black" /><img alt="Jest" src="https://img.shields.io/badge/-Jest-00ff8c?style=flat-square&logo=jest&logoColor=black" /><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-00fff6?style=flat-square&logo=cypress&logoColor=black" /><img alt="Yup Validation" src="https://img.shields.io/badge/-Yup%20Validation-00a4ff?style=flat-square&logo=yarn&logoColor=black" /><img alt="Figma" src="https://img.shields.io/badge/-Figma-003fff?style=flat-square&logo=figma&logoColor=black" /><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-2500ff?style=flat-square&logo=storybook&logoColor=black" /><img alt="npm" src="https://img.shields.io/badge/-npm-b900ff?style=flat-square&logo=npm&logoColor=black" /><img alt="Styled SCSS" src="https://img.shields.io/badge/-Styled%20SCSS-ee00ff?style=flat-square&logo=sass&logoColor=black" /><img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-ff00e1?style=flat-square&logo=material-ui&logoColor=black" /><img alt="Github" src="https://img.shields.io/badge/-Github-ff00ac?style=flat-square&logo=github&logoColor=black" /><img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-ff007c?style=flat-square&logo=gitlab&logoColor=black" />
+<p align="center">
+<img alt="Apollo GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
+<img alt="Axios" src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg">
+<img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
+<img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
+<img alt="GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg" />
+<img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
+<img alt="Redux" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" />
+<img alt="Sass" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg" />
+<img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" />
+
+<img alt="Figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" />
+
+<img alt="Storybook" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook3.svg" />
+
+<img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" />
+
+<img alt="Cypress" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cypress/cypress3.svg" />
+
+<img alt="Yup" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yup/yup3.svg" />
+
+<img alt="Material-UI" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Material-UI/materialui3.svg" />
+
+<img alt="Styled SCSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Styled-SCSS/styledscss3.svg" />
+
+<img alt="npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" />
+
+<img alt="Gitlab" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gitlab/gitlab3.svg" />
+
+<img alt="Github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+
+<img alt="MobX" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MobX/mobx3.svg" />
+
+<img alt="React Context" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React-Context/reactcontext3.svg" />
+
+<img alt="Jotai" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jotai/jotai3.svg" />
+
+<img alt="chatGpt4" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/chatGpt4/chatgpt43.svg" />
+
+<img alt="git Copilot" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/git-Copilot/gitcopilot3.svg" />
+
+<img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Next.js/nextjs3.svg" />
+
+<img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vite/vite3.svg" />
+
+<img alt="Tailwind CSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tailwind-CSS/tailwindcss3.svg" />
+
+<img alt="CSS Modules" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS-Modules/cssmodules3.svg" />
+</p>
 
 <!-- - 🌱 I’m currently learning: Python, Vue -->
 
