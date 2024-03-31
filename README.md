@@ -54,12 +54,10 @@ Currently, I am seeking remote employment opportunities with international teams
 
 ## 📫 How to reach me
 
-<div align="center">
 [![Twitter: Kotkoa](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/Kotkoa)
 [![Linkedin: Kotkoa](https://img.shields.io/badge/-Kotkoa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kotkoa)](https://www.linkedin.com/in/kotkoa)
 [![GitHub Kotkoa](https://img.shields.io/github/followers/Kotkoa?label=follow&style=social)](https://github.com/Kotkoa)
 [![Telegram: Kotkoa](https://img.shields.io/badge/-Kotkoa-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Kotkoa)](https://t.me/Kotkoa)
-</div>
 
 <!--
 **Kotkoa/kotkoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
