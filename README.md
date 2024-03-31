@@ -37,8 +37,7 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
-
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-gray?style=flat&logo=#007FFF&logoWidth=48" alt="Material-UI" />
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-gray?style=flat&logo=MUI&logoWidth=48" />
 
 <img alt="Yup" src="" />
 <img alt="Storybook" src="" />
