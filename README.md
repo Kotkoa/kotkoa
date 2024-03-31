@@ -41,12 +41,11 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-c0ebff?style=for-the-badge&logo=mui&logoColor=2f3022"  />
 <img alt="chatGpt4" src="https://img.shields.io/badge/chatGPT-81a497?style=for-the-badge&logo=openai&logoColor=2f3033" />
 <img alt="Storybook" src="https://img.shields.io/badge/storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=2f3044" />
-
-<img alt="Storybook" src="" />
-<img alt="Cypress" src="" />
-<img alt="Gitlab" src="" />
-<img alt="React Context" src="" />
-<img alt="Jotai" src="" />
+<img alt="Cypress" src="https://img.shields.io/badge/cypress-17202c?style=for-the-badge&logo=cypress&logoColor=2f3055" />
+<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-ff6d42?style=for-the-badge&logo=gitlab&logoColor=2f3066" />
+<img alt="React Context" src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=2f3077" />
+<img alt="React Router" src="https://img.shields.io/badge/react_router-ca4245?style=for-the-badge&logo=react-router&logoColor=2f3088" />
+<img alt="Jotai" src="https://img.shields.io/badge/jotai-2f2f2f?style=for-the-badge&logo=jotai&logoColor=2f3099" />
 
 <>
 <img alt="git Copilot" src="" />
