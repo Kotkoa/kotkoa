@@ -8,7 +8,7 @@ Currently, I am seeking remote employment opportunities with international teams
 
 <div align="center">
 <img alt="Apollo GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
-<img alt="Axios" src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg">
+<img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
 <img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
 <img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
 <img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg"> 
