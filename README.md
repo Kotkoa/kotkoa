@@ -1,20 +1,22 @@
-### Hi there 👋 I'm Andrey Kotko
+# Hi there 👋 I'm Andrey Kotko
 
 <!-- [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg) -->
 
-Currently, I am seeking remote employment opportunities with international teams, or local opportunities in and around Valencia, Spain. Open to various employment forms, including full-time positions, contract work, or B2B arrangements. Contact me if you have a project that could benefit from my expertise.
+I'm seeking remote opportunities with international teams, or local opportunities in and around Valencia, Spain. I have over 6 years of experience in UI development, with a focus on React and TypeScript. I have a strong background in web development, and I'm always looking to learn new technologies and improve my skills.
 
-## ⭐️ My Stack:
+Contact me if you have a project that could benefit from my expertise.
+
+## ⭐️ My Stack
 
 <div align="center">
 <img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
 <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" />
-<img alt="Javascript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> 
+<img alt="Javascript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
 <img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
 <img alt="Apollo GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
 <img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
 <img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
-<img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg"> 
+<img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg">
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 <img alt="GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg" />
 <img alt="Jotai" src="https://img.shields.io/badge/jotai-d4a9a9?style=for-the-badge&logo=jotai&logoColor=2f3099" />
@@ -46,7 +48,6 @@ Currently, I am seeking remote employment opportunities with international teams
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-9da37f?style=for-the-badge&logo=cypress&logoColor=2f3055" />
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Storybook" src="https://img.shields.io/badge/storybook-eca4c0?style=for-the-badge&logo=storybook&logoColor=2f3044" />
-
 </div>
 
 ## 📫 How to reach me
