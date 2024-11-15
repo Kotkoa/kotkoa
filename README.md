@@ -2,9 +2,13 @@
 
 <!-- [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg) -->
 
-I'm seeking remote opportunities with international teams, or local opportunities in and around Valencia, Spain. I have over 6 years of experience in UI development, with a focus on React and TypeScript. I have a strong background in web development, and I'm always looking to learn new technologies and improve my skills.
+I am a Frontend Engineer with over six years of experience in UI development, specializing in React, TypeScript, and modern web technologies. I enjoy building visually compelling, user-friendly web applications and have a proven track record of turning Figma designs into pixel-perfect code. My expertise spans fin-tech, SaaS, and securities, where I have worked on integrating RESTful and GraphQL APIs seamlessly into robust front-end solutions.
 
-Contact me if you have a project that could benefit from my expertise.
+I thrive on solving challenging problems and am always eager to learn new technologies to enhance my skill set. Whether collaborating with international teams or contributing to local projects in and around Valencia, Spain, I bring dedication, precision, and creativity to every task.
+
+Outside of work, I have a passion for photography, sailing, and exploring diverse cultures, inspiring my approach to life and development.
+
+Feel free to reach out—I’m always open to connecting and discussing exciting new projects!
 
 ## ⭐️ My Stack
 
