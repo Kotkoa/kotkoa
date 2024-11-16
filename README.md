@@ -1,12 +1,13 @@
-# Hi there 👋 I'm Andrey Kotko
+# Hi 👋 I'm Andrey Kotko
 
 <!-- [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg) -->
 
-I am a Frontend Engineer with over six years of experience in UI development, specializing in React, TypeScript, and modern web technologies. I enjoy building visually compelling, user-friendly web applications and have a proven track record of turning Figma designs into pixel-perfect code. My expertise spans fin-tech, SaaS, and securities, where I have worked on integrating RESTful and GraphQL APIs seamlessly into robust front-end solutions.
+Hello! 👋
 
-I thrive on solving challenging problems and am always eager to learn new technologies to enhance my skill set. Whether collaborating with international teams or contributing to local projects in and around Valencia, Spain, I bring dedication, precision, and creativity to every task.
+I’m a Full-stack Engineer with over six years of experience in UI development. I specialize in React, TypeScript, and GraphQL APIs. I’ve worked on fin-tech, SaaS, and securities projects, turning Figma designs into functional, user-friendly web applications.
+Based in Valencia, Spain, I’m open to collaborating on challenging and interesting projects locally or remotely.
 
-Outside of work, I have a passion for photography, sailing, and exploring diverse cultures, inspiring my approach to life and development.
+Outside of work, I am passionate about photography, sailing, and exploring diverse cultures, inspiring my approach to life and development.
 
 Feel free to reach out—I’m always open to connecting and discussing exciting new projects!
 
@@ -24,12 +25,11 @@ Feel free to reach out—I’m always open to connecting and discussing exciting
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 <img alt="GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg" />
 <img alt="Jotai" src="https://img.shields.io/badge/jotai-d4a9a9?style=for-the-badge&logo=jotai&logoColor=2f3099" />
-<img alt="Redux" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" />
+<img alt="Redux Toolkit" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" />
 <img alt="React Context" src="https://img.shields.io/badge/react_context-61dafb?style=for-the-badge&logo=react&logoColor=2f3077" />
 <img alt="Sass" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg">
 <img alt="Heroku" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg">
 <img alt="Figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" />
-<img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" />
 <img alt="npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" />
 <img alt="Github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-efb7a3?style=for-the-badge&logo=gitlab&logoColor=2f3066" />
@@ -41,9 +41,8 @@ Feel free to reach out—I’m always open to connecting and discussing exciting
 <img alt="VSCode" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
 <img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" />
 <img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
-<img alt="JSON" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">
 <img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
-<img alt="chatGpt4" src="https://img.shields.io/badge/chatGPT-81a497?style=for-the-badge&logo=openai&logoColor=2f3033" />
+<img alt="ChatGpt4" src="https://img.shields.io/badge/chatGPT-81a497?style=for-the-badge&logo=openai&logoColor=2f3033" />
 <img alt="MarkDown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
 <img alt="Node.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
 <img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
