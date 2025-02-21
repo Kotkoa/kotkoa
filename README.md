@@ -4,7 +4,7 @@
 
 Hello! 👋
 
-I’m a Full-stack Engineer with over six years of experience in UI development. I specialize in React, TypeScript, and GraphQL APIs. I’ve worked on fin-tech, SaaS, and securities projects, turning Figma designs into functional, user-friendly web applications.
+I’m a Frontend engineer with over five years of experience in web app development. I specialize in React, TypeScript, and GraphQL APIs. I’ve worked on fin-tech, SaaS, and securities projects, turning Figma designs into functional, user-friendly web applications.
 Based in Valencia, Spain, I’m open to collaborating on challenging and interesting projects locally or remotely.
 
 Outside of work, I am passionate about photography, sailing, and exploring diverse cultures, inspiring my approach to life and development.
