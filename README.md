@@ -2,16 +2,15 @@
 
 <!-- [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg) -->
 
-Hello! 👋
+Hello! 👋 
 
-I’m a Frontend engineer with over five years of experience in web app development. I specialize in React, TypeScript, and GraphQL APIs. I’ve worked on fin-tech, SaaS, and securities projects, turning Figma designs into functional, user-friendly web applications.
-Based in Valencia, Spain, I’m open to collaborating on challenging and interesting projects locally or remotely.
+I am a Fullstack Engineer with over five years of experience in UI development, specializing in React, TypeScript, GraphQl API, and modern web technologies. I enjoy building visually compelling web applications and the flow of turning Figma designs into pixel-perfect UI. My expertise spans web apps at fin-tech and securities, where I have worked on integrating GraphQL APIs seamlessly into robust frontend solutions.
 
-Outside of work, I am passionate about photography, sailing, and exploring diverse cultures, inspiring my approach to life and development.
+Whether collaborating with international teams or contributing to local projects in and around Valencia, Spain, I bring dedication, precision, and creativity to every task.
 
-Feel free to reach out—I’m always open to connecting and discussing exciting new projects!
+Outside of work, I am passionate about photography, sailing, and inspiring my approach to life and development.
 
-## ⭐️ My Stack
+## 💻 Tech Stack
 
 <div align="center">
 <img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
