@@ -6,9 +6,11 @@ Hello! 👋
 
 I am a Fullstack Engineer with over five years of experience in UI development, specializing in React, TypeScript, GraphQl API, and modern web technologies. I enjoy building visually compelling web applications and the flow of turning Figma designs into pixel-perfect UI. My expertise spans web apps at fin-tech and securities, where I have worked on integrating GraphQL APIs seamlessly into robust frontend solutions.
 
-Whether collaborating with international teams or contributing to local projects in and around Valencia, Spain, I bring dedication, precision, and creativity to every task.
+I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.  
 
 Outside of work, I am passionate about photography, sailing, and inspiring my approach to life and development.
+
+- 🌱 I’m currently learning Spanish (A2), aiming to reach B2 by the end of 2025.
 
 ## 💻 Tech Stack
 
@@ -54,9 +56,9 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 
 ## 📫 How to reach me
 
-[![Twitter: Kotkoa](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/Kotkoa)
 [![Linkedin: Kotkoa](https://img.shields.io/badge/-Kotkoa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kotkoa)](https://www.linkedin.com/in/kotkoa)
 [![GitHub Kotkoa](https://img.shields.io/github/followers/Kotkoa?label=follow&style=social)](https://github.com/Kotkoa)
+[![Twitter: Kotkoa](https://img.shields.io/twitter/follow/Kotkoa?style=social)](https://twitter.com/Kotkoa)
 [![Telegram: Kotkoa](https://img.shields.io/badge/-Kotkoa-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Kotkoa)](https://t.me/Kotkoa)
 
 <!--
@@ -65,7 +67,6 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
