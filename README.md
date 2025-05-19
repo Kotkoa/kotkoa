@@ -2,11 +2,11 @@
 
 <!-- [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg) -->
 
-Hello! 👋 
+Hello! 👋
 
 I am a Fullstack Engineer with over five years of experience in UI development, specializing in React, TypeScript, GraphQl API, and modern web technologies. I enjoy building visually compelling web applications and the flow of turning Figma designs into pixel-perfect UI. My expertise spans web apps at fin-tech and securities, where I have worked on integrating GraphQL APIs seamlessly into robust frontend solutions.
 
-I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.  
+I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel.
 
 Outside of work, I am passionate about photography, sailing, and inspiring my approach to life and development.
 
@@ -52,6 +52,7 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-9da37f?style=for-the-badge&logo=cypress&logoColor=2f3055" />
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Storybook" src="https://img.shields.io/badge/storybook-eca4c0?style=for-the-badge&logo=storybook&logoColor=2f3044" />
+<img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-4B9CD3?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ## 📫 How to reach me
