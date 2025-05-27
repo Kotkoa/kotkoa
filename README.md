@@ -4,7 +4,7 @@
 
 Hello! 👋
 
-I am a Fullstack Engineer with over five years of experience in UI development, specializing in React, TypeScript, GraphQl/REST API, and modern web technologies. I enjoy building visually compelling web applications and the flow of turning Figma designs into pixel-perfect UI. My expertise spans web apps at fin-tech and securities, where I have worked on integrating GraphQL APIs seamlessly into robust frontend solutions
+I am a Fullstack Engineer with over five years of experience in UI development, specializing in React, TypeScript, GraphQl/REST API, and modern web technologies. I enjoy building visually compelling web applications and the flow of turning Figma designs into pixel-perfect UI. My expertise spans web apps at fin-tech and securities, where I have worked on integrating GraphQL APIs seamlessly into robust frontend solutions.
 
 I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel
 
