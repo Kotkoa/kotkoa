@@ -8,9 +8,9 @@ I am a Fullstack Engineer with over five years of experience in UI development, 
 
 I have a proven track record of collaborating with international teams, working remotely, and contributing to both enterprise and startup environments. Based in Spain, I am open to hybrid collaboration and occasional travel
 
-Outside of work, I am passionate about photography, sailing, and inspiring my approach to life and development
+Outside of work, I am passionate about photography, sailing, and inspiring my approach to life and development.
 
-- 🌱 I’m currently learning Spanish (A2), aiming to reach B2 by the end of 2025
+- 🌱 I’m currently learning Spanish (A2), aiming to reach B2 by the end of 2025.
 
 ## 💻 Tech Stack
 
