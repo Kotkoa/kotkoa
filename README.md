@@ -10,7 +10,7 @@ I have a proven track record of collaborating with international teams, working 
 
 Outside of work, I am passionate about photography, sourdough bread, sailing, and inspiring my approach to life and development.
 
-- 🌱 I’m currently learning Spanish, aiming to reach B2 by the end of 2025.
+- 🌱 I’m currently learning Spanish, aiming to reach B2 by the end of 2026.
 
 ## 💻 Tech Stack
 
