@@ -19,12 +19,11 @@ Outside of work, I am passionate about photography, sourdough bread, sailing, an
 <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" />
 <img alt="Javascript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
 <img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
-<img alt="Apollo GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
+<img alt="Apollo GraphQL Client" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
 <img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
 <img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
 <img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg">
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
-<img alt="GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg" />
 <img alt="Jotai" src="https://img.shields.io/badge/jotai-d4a9a9?style=for-the-badge&logo=jotai&logoColor=2f3099" />
 <img alt="Redux Toolkit" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" />
 <img alt="React Context" src="https://img.shields.io/badge/react_context-61dafb?style=for-the-badge&logo=react&logoColor=2f3077" />
@@ -38,7 +37,7 @@ Outside of work, I am passionate about photography, sourdough bread, sailing, an
 <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-c0ebff?style=for-the-badge&logo=mui&logoColor=2f3022"  />
 <img alt="HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
 <img alt="React Router" src="https://img.shields.io/badge/react_router-d5a1a1?style=for-the-badge&logo=react-router&logoColor=2f3088" />
-<img alt="Versel" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg">
+<img alt="Vercel" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg">
 <img alt="VSCode" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
 <img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" />
 <img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
