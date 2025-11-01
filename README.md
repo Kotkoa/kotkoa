@@ -46,13 +46,14 @@ Outside of work, I am passionate about photography, sourdough bread, sailing, an
 <img alt="MarkDown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
 <img alt="Node.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
 <img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
-<img alt="git Copilot" src="https://img.shields.io/badge/git_copilot-d4d4d4?style=for-the-badge&logo=github&logoColor=2f3010" />
+<img alt="github Copilot" src="https://img.shields.io/badge/git_copilot-d4d4d4?style=for-the-badge&logo=github&logoColor=2f3010" />
 <img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg">
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-9da37f?style=for-the-badge&logo=cypress&logoColor=2f3055" />
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Storybook" src="https://img.shields.io/badge/storybook-eca4c0?style=for-the-badge&logo=storybook&logoColor=2f3044" />
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-4B9CD3?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
+
 
 ## 📫 How to reach me
 
