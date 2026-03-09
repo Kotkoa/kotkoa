@@ -1,18 +1,11 @@
 # Project: kotkoa
 
-GitHub profile repository for Andrey Kotko. Serves as both the GitHub profile README and a redirect page hosted on GitHub Pages.
+GitHub profile repository for Andrey Kotko.
 
 ## Structure
 
-- `index.html` — Static redirect page (GitHub Pages → github.com/Kotkoa) with Open Graph / Twitter Card meta
 - `README.md` — GitHub profile README
-- `og-image.png` — Open Graph preview image
 - `settings.json` — VSCode editor settings (shared config)
-
-## Hosting
-
-- GitHub Pages: https://kotkoa.github.io/kotkoa/
-- Redirects to: https://github.com/Kotkoa
 
 ## Code Style
 
