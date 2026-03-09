@@ -57,6 +57,19 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 <img alt="Heroku" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg">
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotkoa&layout=compact&theme=default" alt="Top Languages" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kotkoa&theme=default" alt="GitHub Streak" />
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kotkoa/kotkoa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kotkoa/kotkoa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kotkoa/kotkoa/output/github-snake.svg" />
+</picture>
+</div>
 
 ## 📫 How to reach me
 
