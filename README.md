@@ -26,7 +26,7 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
 <img alt="Jotai" src="https://img.shields.io/badge/jotai-d4a9a9?style=for-the-badge&logo=jotai&logoColor=2f3099" />
 <img alt="Redux Toolkit" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" />
-<img alt="React Context" src="https://img.shields.io/badge/react_context-61dafb?style=for-the-badge&logo=react&logoColor=2f3077" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="Sass" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg">
 <img alt="Heroku" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg">
 <img alt="Figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" />
@@ -52,6 +52,9 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
 <img alt="Storybook" src="https://img.shields.io/badge/storybook-eca4c0?style=for-the-badge&logo=storybook&logoColor=2f3044" />
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-4B9CD3?style=for-the-badge&logo=openai&logoColor=white" />
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-d4a574?style=for-the-badge&logo=anthropic&logoColor=2f3033" />
+<img alt="Codex" src="https://img.shields.io/badge/Codex-74b9d4?style=for-the-badge&logo=openai&logoColor=2f3033" />
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white" />
 </div>
 
 
