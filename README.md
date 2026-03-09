@@ -17,44 +17,44 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 <div align="center">
 <img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
 <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" />
-<img alt="Javascript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-<img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
-<img alt="Apollo GraphQL Client" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
-<img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
-<img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
-<img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg">
 <img alt="Next.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" />
+<img alt="GraphQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg" />
+<img alt="Apollo GraphQL Client" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg" />
 <img alt="Jotai" src="https://img.shields.io/badge/jotai-d4a9a9?style=for-the-badge&logo=jotai&logoColor=2f3099" />
 <img alt="Redux Toolkit" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" />
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img alt="Sass" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg">
-<img alt="Heroku" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg">
-<img alt="Figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" />
-<img alt="npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" />
-<img alt="Github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
-<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-efb7a3?style=for-the-badge&logo=gitlab&logoColor=2f3066" />
-<img alt="Tailwind CSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg">
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-c0ebff?style=for-the-badge&logo=mui&logoColor=2f3022"  />
-<img alt="HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
-<img alt="React Router" src="https://img.shields.io/badge/react_router-d5a1a1?style=for-the-badge&logo=react-router&logoColor=2f3088" />
-<img alt="Vercel" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg">
-<img alt="VSCode" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
-<img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" />
-<img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
-<img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
-<img alt="ChatGpt4" src="https://img.shields.io/badge/chatGPT-81a497?style=for-the-badge&logo=openai&logoColor=2f3033" />
-<img alt="MarkDown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
+<img alt="Javascript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
 <img alt="Node.js" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
-<img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
-<img alt="github Copilot" src="https://img.shields.io/badge/git_copilot-d4d4d4?style=for-the-badge&logo=github&logoColor=2f3010" />
+<img alt="Express" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" />
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-c0ebff?style=for-the-badge&logo=mui&logoColor=2f3022" />
+<img alt="Tailwind CSS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg">
+<img alt="Sass" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg">
+<img alt="HTML" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+<img alt="Figma" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" />
+<img alt="React Router" src="https://img.shields.io/badge/react_router-d5a1a1?style=for-the-badge&logo=react-router&logoColor=2f3088" />
+<img alt="Axios" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
+<img alt="MongoDB" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
+<img alt="Gatsby" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg">
+<img alt="Vite" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" />
+<img alt="Storybook" src="https://img.shields.io/badge/storybook-eca4c0?style=for-the-badge&logo=storybook&logoColor=2f3044" />
 <img alt="Jest" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg">
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-9da37f?style=for-the-badge&logo=cypress&logoColor=2f3055" />
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img alt="Prettier" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg" />
-<img alt="Storybook" src="https://img.shields.io/badge/storybook-eca4c0?style=for-the-badge&logo=storybook&logoColor=2f3044" />
+<img alt="Eslint" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" />
+<img alt="ChatGpt4" src="https://img.shields.io/badge/chatGPT-81a497?style=for-the-badge&logo=openai&logoColor=2f3033" />
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-4B9CD3?style=for-the-badge&logo=openai&logoColor=white" />
+<img alt="Postman" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" />
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-d4a574?style=for-the-badge&logo=anthropic&logoColor=2f3033" />
 <img alt="Codex" src="https://img.shields.io/badge/Codex-74b9d4?style=for-the-badge&logo=openai&logoColor=2f3033" />
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img alt="VSCode" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg">
+<img alt="github Copilot" src="https://img.shields.io/badge/git_copilot-d4d4d4?style=for-the-badge&logo=github&logoColor=2f3010" />
+<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-efb7a3?style=for-the-badge&logo=gitlab&logoColor=2f3066" />
+<img alt="npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" />
+<img alt="Yarn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg">
+<img alt="MarkDown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
+<img alt="Github" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+<img alt="Vercel" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg">
+<img alt="Heroku" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg">
 </div>
 
 
