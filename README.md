@@ -60,8 +60,6 @@ Outside of work, I am passionate about photography, sailing, and inspiring my ap
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotkoa&layout=compact&theme=default" alt="Top Languages" />
-<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kotkoa&theme=default" alt="GitHub Streak" />
 <br />
 <picture>
