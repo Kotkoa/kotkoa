@@ -1,4 +1,4 @@
-# Hi 👋 I'm Andrey Kotko
+# Hi 👋 I'm Andrey Kotko ~[OPEN TO WORK]
 
 <!-- [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F715&random=false&width=435&lines=Lorem+ipsum+dolor+amet...;Frontend+(React)+Developer;6%2B+years+experience+UI+development>)](https://git.io/typing-svg) -->
 
