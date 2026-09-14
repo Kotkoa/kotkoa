@@ -1,0 +1,15 @@
+<svg width="1024" height="640" viewBox="0 0 1024 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bravira placeholder card">
+  <defs>
+    <pattern id="stripes-br" width="24" height="24" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#eaf2fb"/>
+      <rect width="12" height="24" fill="#dbe8f8"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1022" height="638" fill="url(#stripes-br)" stroke="#b9cee6" stroke-width="2"/>
+  <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#7c93ac">+</text>
+  <text x="1000" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#7c93ac" text-anchor="end">+</text>
+  <text x="24" y="622" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#7c93ac">+</text>
+  <text x="1000" y="622" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#7c93ac" text-anchor="end">+</text>
+  <text x="512" y="310" font-family="ui-sans-serif, Arial, sans-serif" font-size="34" font-weight="800" fill="#16324f" text-anchor="middle" letter-spacing="1">BRAVIRA</text>
+  <text x="512" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#6d829b" text-anchor="middle">bravira.svg · 1024×640</text>
+</svg>
