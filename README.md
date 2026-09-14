@@ -3,7 +3,7 @@
   <img src="assets/sub_hero.png" alt="Available immediately — remote roles, Europe & US teams, B2B" width="100%" />
 </p>
 
-Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fintech-grade web apps with React, Next.js, and TypeScript. Based in Pego, Valencian Community, Spain.
+Hands-on fullstack engineer — 20+ years in digital web products, the last six focused on frontend architecture: design systems, GraphQL-driven UIs, fintech-grade web apps.
 
 <img src="assets/badge-01.png" width="100%" alt="01 Selected work" />
 
@@ -35,10 +35,14 @@ Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fi
 
 <img src="assets/badge-02.png" width="100%" alt="02 Also in the toolbox" />
 
-**Data** — GraphQL / Apollo Client, Node.js<br />
-**UI / State** — Tailwind CSS, Redux Toolkit, Jotai<br />
-**Quality** — Playwright, Cypress, Jest<br />
-**Shipping** — Static export, OG images, JSON-LD
+<table>
+<tr>
+<td width="25%" valign="top"><strong>Data</strong><br />GraphQL / Apollo Client, Node.js</td>
+<td width="25%" valign="top"><strong>UI / State</strong><br />Tailwind CSS, Redux Toolkit, Jotai</td>
+<td width="25%" valign="top"><strong>Quality</strong><br />Playwright, Cypress, Jest</td>
+<td width="25%" valign="top"><strong>Shipping</strong><br />Static export, OG images, JSON-LD</td>
+</tr>
+</table>
 
 ## Contact
 
