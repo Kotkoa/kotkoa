@@ -6,31 +6,13 @@ Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fi
 
 ### <img src="assets/badge-01.svg" width="28" valign="middle" alt="01" /> Selected work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<a href="https://evlibre.cc"><img src="assets/card-ev-libre.svg" alt="EV Libre" width="32%" /></a>
+<a href="https://bravira.es"><img src="assets/card-bravira.svg" alt="Bravira" width="32%" /></a>
+<a href="https://kotkoa.com/"><img src="assets/card-kotkoa-studio.svg" alt="Kotkoa Studio" width="32%" /></a>
 
-<a href="https://evlibre.cc"><img src="assets/card-ev-libre.svg" alt="EV Libre" width="100%" /></a>
-
-**EV Libre** — EV charger discovery and live availability alerts across Spain, with optional push notifications. [Site](https://evlibre.cc)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://bravira.es"><img src="assets/card-bravira.svg" alt="Bravira" width="100%" /></a>
-
-**Bravira** — active tours and outdoor experiences in Spain, including kayaking, SUP, hiking, climbing, and sailing. [Site](https://bravira.es)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://kotkoa.com/"><img src="assets/card-kotkoa-studio.svg" alt="Kotkoa Studio" width="100%" /></a>
-
+**EV Libre** — EV charger discovery and live availability alerts across Spain, with optional push notifications. [Site](https://evlibre.cc)<br />
+**Bravira** — active tours and outdoor experiences in Spain, including kayaking, SUP, hiking, climbing, and sailing. [Site](https://bravira.es)<br />
 **Kotkoa Studio** — creative-studio site with a Shopify-backed store. Next.js 16 static export, React 19 + Compiler, Tailwind v4, Jotai. [Site](https://kotkoa.com/) · [Code](https://github.com/Kotkoa/stocker)
-
-</td>
-</tr>
-</table>
 
 ### <img src="assets/badge-02.svg" width="28" valign="middle" alt="02" /> Toolbox
 
