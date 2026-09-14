@@ -45,7 +45,6 @@ Independent creative studio and Shopify store for print-on-demand and digital pr
 </tr>
 </table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Learning Spanish — B2 target 2026</span>
-  <a href="assets/Andriy_Kotko_CV-B_FullStack.pdf" download>Download CV</a>
-</div>
+Learning Spanish — B2 target 2026
+
+<p align="right"><a href="assets/Andriy_Kotko_CV-B_FullStack.pdf" download>Download CV</a></p>
