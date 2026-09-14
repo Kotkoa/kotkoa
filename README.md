@@ -11,21 +11,21 @@ Hands-on fullstack engineer — 20+ years in digital web products, the last six 
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://evlibre.cc"><img src="assets/card-ev-libre.png" alt="EV Libre" width="100%" /></a>
+<a href="https://evlibre.cc"><img src="assets/card-ev-libre-scr.png" alt="EV Libre" width="100%" /></a>
 
 EV charger discovery and live availability alerts across Spain, with optional push notifications. [Site](https://evlibre.cc)
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://bravira.es"><img src="assets/card-bravira.png" alt="Bravira" width="100%" /></a>
+<a href="https://bravira.es"><img src="assets/card-bravira-scr.png" alt="Bravira" width="100%" /></a>
 
 Active tours and outdoor experiences in Spain — kayaking, SUP, hiking, climbing, sailing. [Site](https://bravira.es)
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://kotkoa.com/"><img src="assets/card-kotkoa-studio.png" alt="Kotkoa Studio" width="100%" /></a>
+<a href="https://kotkoa.com/"><img src="assets/card-kotkoa-studio-scr.png" alt="Kotkoa Studio" width="100%" /></a>
 
 Creative-studio site with a Shopify-backed store. Next.js 16 static export, React 19 + Compiler, Tailwind v4, Jotai. [Site](https://kotkoa.com/) · [Code](https://github.com/Kotkoa/stocker)
 
