@@ -27,7 +27,7 @@ Active tours and outdoor experiences in Spain — kayaking, SUP, hiking, climbin
 
 <a href="https://kotkoa.com/"><img src="assets/card-kotkoa-studio-scr.png" alt="Kotkoa Studio" width="100%" /></a>
 
-Creative-studio site with a Shopify-backed store. Next.js 16 static export, React 19 + Compiler, Tailwind v4, Jotai. [Site](https://kotkoa.com/) · [Code](https://github.com/Kotkoa/stocker)
+Independent creative studio and Shopify store for print-on-demand and digital products, built on a custom Shopify theme. [Site](https://shop.kotkoa.com/) · [Theme](https://github.com/Kotkoa/kotkoa-botanical-theme)
 
 </td>
 </tr>
