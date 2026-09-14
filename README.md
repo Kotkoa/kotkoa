@@ -1,6 +1,6 @@
 # Andrey Kotko
 
-Frontend Engineer (5+ years) building design systems, GraphQL-driven UIs, and fintech-grade web apps with React, Next.js, and TypeScript. Based in Valencia, Spain.
+Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fintech-grade web apps with React, Next.js, and TypeScript. Based in Pego, Valencian Community, Spain.
 
 ## Stack
 
