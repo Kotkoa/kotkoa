@@ -3,7 +3,8 @@
   <img src="assets/sub_hero.png" alt="Available immediately — remote roles, Europe & US teams, B2B" width="100%" />
 </p>
 
-Hands-on fullstack engineer — 20+ years in digital web products, the last six focused on frontend architecture: design systems, GraphQL-driven UIs, fintech-grade web apps.
+Hands-on full-stack engineer with 20+ years in digital web products and six years focused on frontend architecture. From clear interfaces and real-time updates to performance, testing, and release.
+Quality-driven work on the APIs, data, and integrations behind the product.
 
 <img src="assets/badge-01.png" width="100%" alt="01 Selected work" />
 
@@ -43,7 +44,5 @@ Independent creative studio and Shopify store for print-on-demand and digital pr
 <td width="25%" valign="top"><strong>Shipping</strong><br />SSR, OG images, JSON-LD</td>
 </tr>
 </table>
-
----
 
 Learning Spanish — B2 target 2026
