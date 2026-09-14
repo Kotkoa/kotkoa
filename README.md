@@ -34,9 +34,10 @@ Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fi
 
 ### <img src="assets/badge-02.svg" width="28" valign="middle" alt="02" /> Toolbox
 
-| Data                             | UI / State                         | Quality                   | Shipping                          |
-| -------------------------------- | ---------------------------------- | ------------------------- | --------------------------------- |
-| GraphQL / Apollo Client, Node.js | Tailwind CSS, Redux Toolkit, Jotai | Playwright, Cypress, Jest | Static export, OG images, JSON-LD |
+**Data** — GraphQL / Apollo Client, Node.js<br />
+**UI / State** — Tailwind CSS, Redux Toolkit, Jotai<br />
+**Quality** — Playwright, Cypress, Jest<br />
+**Shipping** — Static export, OG images, JSON-LD
 
 ## Contact
 
