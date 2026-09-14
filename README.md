@@ -4,7 +4,7 @@
 
 Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fintech-grade web apps with React, Next.js, and TypeScript. Based in Pego, Valencian Community, Spain.
 
-## 01 · Selected work
+### 01 · Selected work
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ Frontend Engineer (6+ years) building design systems, GraphQL-driven UIs, and fi
 </tr>
 </table>
 
-## 02 · Toolbox
+### 02 · Toolbox
 
 | Data                             | UI / State                         | Quality                   | Shipping                          |
 | -------------------------------- | ---------------------------------- | ------------------------- | --------------------------------- |
