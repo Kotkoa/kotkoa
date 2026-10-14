@@ -32,6 +32,29 @@ Independent creative studio and Shopify store for print-on-demand and digital pr
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://piscinasyuriy.es/"><img src="assets/card-piscinas-yuriy-scr.png" alt="Piscinas Yuriy" width="100%" /></a>
+
+Website for a pool builder in Alicante and Valencia: construction, repair and renovation of pools, with a gallery and contact details. [Site](https://piscinasyuriy.es/) · [Code](https://github.com/Kotkoa/piscinas-yuriy)
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://kotkoa.github.io/miss-cupcake/"><img src="assets/card-miss-cupcake-scr.png" alt="Miss Cupcake" width="100%" /></a>
+
+Cupcake shop built from a Figma design: browse, fill a bag and go through a full demo checkout. [Site](https://kotkoa.github.io/miss-cupcake/) · [Code](https://github.com/Kotkoa/miss-cupcake)
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://rickandmorty-2024.vercel.app/"><img src="assets/card-rickandmorty-scr.png" alt="Rick and Morty Explorer" width="100%" /></a>
+
+Explore every character, location and episode of Rick and Morty, powered by a GraphQL API. [Site](https://rickandmorty-2024.vercel.app/) · [Code](https://github.com/Kotkoa/rickandmorty)
+
+</td>
+</tr>
 </table>
 
 <img src="assets/badge-02.png" width="100%" alt="02 Also in the toolbox" />
